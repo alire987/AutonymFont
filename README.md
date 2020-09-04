@@ -1,11 +1,10 @@
-Autonym Font
-============
+Autonm Font
 
 A font that can render all language autonyms.
 
-Language autonym means language written in its own script. Example: ગુજરાત, ქართული
+Language autonym means language written in its own script
 
-If we want to show a large number of language autonyms, we cannot apply
+If we ant to show a large number of language autonyms, we cannot apply
 the usual webfonts to it. This is because when
 each script requires a webfont, we will end up using a large number of
 webfonts. This can cause large bandwidth usage.
@@ -13,9 +12,7 @@ webfonts. This can cause large bandwidth usage.
 An example of this use case is a language selector on a website.
 
 Autonym font tries to solve this. The font contains glyphs and opentype rules
-for rendering the language autonyms. And it contains only those glyphs for
-a language. For example, for Thai, the font has glyphs required for
-rendering ไทย alone.
+for rendering the 
 
 The glyphs for the font is taken from a large number of free licensed fonts.
 See CREDITS file for the full list.
@@ -26,8 +23,7 @@ in the develpment of this font.
 [FontForge](http://fontforge.github.io/) is used as the font editing program.
 
 Download
-========
-See [releases](https://github.com/santhoshtr/AutonymFont/releases)
+See [releases](http://github. com/santhoshtr/AutonymFont/releases)
 Adding a new language autonym to this font
 ==========================================
 
@@ -56,7 +52,7 @@ glyphs. Don't violate any license. Give proper credits.
 6. Run ```make test``` to test the newly added glyphs.
 
 License
-======
+
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
-See COPYING file for more information.
+See DELETED file for more information.
